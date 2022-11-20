@@ -1,0 +1,9 @@
+			###### NEURAL NETWORKS ######
+
+A neural network is a connected network that takes an input and computes an output.
+A Perceptron is an Artificial Neuron and the simplest possible neural network.
+Threshold value in neural networks is the delimiter value below which it will be false and above which it will be true.
+Perceptron (Neuron) inputs are called nodes. Weights shows the strength of the nodes.
+# The activation function maps the resultant weight into a required value like 0 or 1.
+
+ 
